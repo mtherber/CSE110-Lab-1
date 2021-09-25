@@ -12,10 +12,10 @@ if (broken) {
 ```
 
 ## My Company
-I run a small electronics business called [Whizoo Electronics](www.whizoo.com). I manufacture and sell solder reflow oven controllers and kits. Read the build guide [here](www.whizoo.com/reflowoven).
+I run a small electronics business called [Whizoo Electronics](https://www.whizoo.com). I manufacture and sell solder reflow oven controllers and kits. Read the build guide [here](https://www.whizoo.com/reflowoven).
 
 ## Check out my company's website
-[Overview](#My-Company)
+[Overview](#my-company)
 
 ## Check out my new readme!
 [link](./README.md)
